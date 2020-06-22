@@ -3,7 +3,8 @@
 }
 html {
   font-size: 10px;
-  background: url("bg.jpeg") center center;
+  background: url("bg.jpeg") center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
